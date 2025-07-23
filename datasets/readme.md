@@ -6,3 +6,7 @@ Y is the Sellmeier model number (1, 2, 3, or 4)<br>
  <br>
  
 Noise added cases follow the same naming but with noise amount in the end. For example, "SiNtrainingDintSM1_50.csv" is "SiNtrainingDintSM1.csv" data + 50*random
+
+
+<b> Testing Dataset Naming </b>
+Same as above, but file names start with "SiNtestDint"
