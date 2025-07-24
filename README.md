@@ -1,4 +1,4 @@
-# RingDimensionDS
+# Ring Dimension Prediction from Integrated Dispersion Data
 The goal of this project is to predict the dimensions of a ring (width and height) from the integrated dispersion datasets. The datasets can be found at https://github.com/simsekergun/RingDimensionDS/. In all datasets, the first two columns represent the dimensions (Y), and the subsequent columns contain the integrated dispersion values computed at 171 wavelengths ranging from 750 nm to 1600 nm.
 
 Integrated dispersion calculations were made using 4 different Sellmeier Eq. coefficients. The dataset file names contain "SM1" means that they are calculated using the first set of coefficients, "SM2" means that they are calculated using the second set of coefficients, etc. 
